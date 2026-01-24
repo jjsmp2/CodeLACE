@@ -1,5 +1,5 @@
 """
-Training pipeline for CodeLACE model.
+Training pipeline for CodeLACE model across different languages.
 """
 
 import torch
