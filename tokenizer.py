@@ -1,5 +1,5 @@
 """
-Code-aware tokenizer for CodeLACE.
+Code-aware tokenizer for CodeLACE across different programming languages.
 """
 
 import re
