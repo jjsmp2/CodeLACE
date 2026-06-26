@@ -1,6 +1,6 @@
 # CodeLACE: Efficient Semantic Source Code Analysis using Code-Level Attention-Based Classification
 
-CodeLACE is a multi-layered transformer-based model designed for efficient and accurate hierarchical classification of source code. Its architecture is built upon three core innovations that differentiate it from both large-scale code transformers and general-purpose lightweight models: Adaptive Sparse Attention, Hierarchical Token Pooling, and a Code-Specific Mixture of Experts. CodeLACE is specifically engineered to analyze the unique structural and semantic properties of source code. As of now, CodeLACE works across multiple programming languages, including Python, Java, JavaScript, C++, PHP, and Go. Further, unlike the traditional large transformer models, CodeLACE is optimized for resource-constrained environments, achieving high performance with significantly reduced computational overhead and memory footprint. It leverages a unique architecture that incorporates Sparse Attention, Hierarchical Token Pooling, and a Code-Specific Mixture of Experts to understand and classify code with a deep understanding and awareness of the inherent structure and semantics of source code.
+CodeLACE is a multi-layered transformer-based model.
 
 ## Key Features
 
